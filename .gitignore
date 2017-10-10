@@ -1,0 +1,8 @@
+# Ignore DB settings
+config/db_params.php
+# Ignore unnecessary files and folders
+.idea
+nbproject
+*.tar.gz
+tz.txt
+
