@@ -1,7 +1,7 @@
 <?php
 return array(
     'host' => 'localhost',
-    'dbname' => 'irongutang_db',
-    'user' => 'root',
-    'password' => '123',
+    'dbname' => 'irongutang',
+    'user' => 'irongutang',
+    'password' => 'Ironsadk0',
 );
